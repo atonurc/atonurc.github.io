@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% assign posts = site.posts %}
+  {% if paginator %}
+    {% assign posts = paginator.posts %}
+  {% endif %}
+  {% for post in posts %}
+    <div class="post">
+      <h2 class="post-title">
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta">{{ post.date | date_to_string }}</time>
+
+      <p class="post-excerpt">
+        {% if post.description %}
+          {{ post.description | strip_html }}
+        {% else %}
+          {{ post.excerpt | strip_html }}
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
+{% if paginator %}
+  <div class="pagination pure-g">
+    {% if paginator.next_page %}
+      <a class="pagination-item older pure-u-1-2 pure-button" href="{{ paginator.next_page_path | relative_url }}"><i class="fas fa-chevron-left"></i></a>
+    {% else %}
+      <span class="pagination-item older pure-u-1-2 pure-button pure-button-disabled"><i class="fas fa-chevron-left"></i></span>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <a class="pagination-item newer pure-u-1-2 pure-button" href="{{ paginator.previous_page_path | relative_url }}"><i class="fas fa-chevron-right"></i></a>
+    {% else %}
+      <span class="pagination-item newer pure-u-1-2 pure-button pure-button-disabled"><i class="fas fa-chevron-right"></i></span>
+    {% endif %}
+  </div>
+{% endif %}

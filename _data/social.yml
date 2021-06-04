@@ -1,0 +1,18 @@
+- title: Email
+  url: mailto:atonuroychowdhury@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/atonurc
+  icon: fab fa-github
+- title: Medium
+  url: https://atonu-roy-chowdhury.medium.com/
+  icon: fab fa-medium
+- title: Twitter
+  url: https://twitter.com/atonu__
+  icon: fab fa-twitter
+- title: Discord
+  url: https://discordapp.com/users/692066406384271451/
+  icon: fab fa-discord
+- title: Instagram
+  url: https://instagram.com/atonu.roy.chowdhury
+  icon: fab fa-instagram

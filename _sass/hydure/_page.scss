@@ -1,0 +1,123 @@
+.page,
+.post {
+  font-family: var(--page-font);
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+    font-family: var(--body-font);
+  }
+}
+
+.page-title,
+.post-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.post-meta {
+  color: var(--body-color-light);
+  font-size: 80%;
+  font-family: var(--body-font);
+  margin-top: 0;
+}
+
+.post-categories,
+.post-tags {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: inline-block;
+  }
+}
+
+.post-tags {
+  margin: 1em 0;
+}
+
+.post-category {
+  color: inherit;
+
+  &::after {
+    content: "/";
+  }
+}
+
+.post-tag {
+  padding: .1em .5em;
+  margin-right: .5em;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+}
+
+a.post-tag {
+  color: inherit;
+  text-decoration: none;
+
+  &:focus,
+  &:hover {
+    color: var(--body-bg);
+    background-color: var(--link-color);
+  }
+}
+
+.posts {
+  .post {
+    padding: 1em;
+    margin-bottom: 1em;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+  }
+
+  .post-title {
+    a {
+      color: inherit;
+    }
+  }
+}
+
+.highlight {
+  border-radius: var(--border-radius);
+  background-color: var(--code-bg);
+}
+
+.rouge-table {
+  margin: 0;
+  font-size: 100%;
+
+  &,
+  td,
+  th {
+    border: 0;
+    padding: 0;
+  }
+
+  pre {
+    padding: 0;
+    margin: 0;
+  }
+
+  .gutter {
+    vertical-align: top;
+    user-select: none;
+    opacity: .25;
+    padding-right: 1em;
+  }
+}
+
+#markdown-toc {
+  font-family: var(--body-font);
+  font-size: 80%;
+  padding: 2em 3em;
+  margin: 2em 0;
+  border: solid var(--border-color);
+  border-width: 1px 0;
+
+  &::before {
+    display: block;
+    margin-left: -3em;
+    content: "TOC";
+  }
+}
