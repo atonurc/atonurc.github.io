@@ -2,13 +2,16 @@
 layout: default
 ---
 
+ {{ content }}
+
 <div class="posts">
   {% assign posts = site.posts %}
   {% if paginator %}
     {% assign posts = paginator.posts %}
   {% endif %}
   {% for post in posts %}
-    <div class="post">
+      <div class="post">
+      <img src="{{post.image | relative_url}}" class="post-thumb">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
@@ -16,6 +19,7 @@ layout: default
       </h2>
 
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta">{{ post.date | date_to_string }}</time>
+      
 
       <p class="post-excerpt">
         {% if post.description %}
@@ -25,6 +29,7 @@ layout: default
         {% endif %}
       </p>
     </div>
+
   {% endfor %}
 </div>
 

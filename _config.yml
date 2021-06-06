@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://atonurc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 cover: "https://i.ibb.co/1G8FMWF/sidebar.jpg"
+tags_path: "/tags"
 
 # Build settings
 # theme: minima

@@ -2,6 +2,8 @@
 layout: page
 title: ""
 # permalink: /
+image: /assets/pfp.jpg
+
 ---
 
  
@@ -12,7 +14,7 @@ Hello there! This is Atonu Roy Chowdhury. I'm currently studying Pure Mathematic
 I love to learn. Apart from Mathematics my topics of interest are: Biology (specially Neuroscience and Psychology), Physics, Philosophy, Music, Art. Recently I've started growing interest in filmmaking. 
 
 
-Sometimes I write some articles on Medium. They can be found [here](https://atonu-roy-chowdhury.medium.com). I also plan to add my articles to this site also. 
+Sometimes I write some articles on Medium. They can be found [here](https://atonu-roy-chowdhury.medium.com). I also plan to add them to [this site](https://atonurc.github.io/writings/). 
 
 
 ### Contact Informations:

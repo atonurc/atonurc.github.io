@@ -5,4 +5,9 @@
 layout: home
 title: Writings
 permalink: /writings
+math: true
 ---
+
+# Articles
+
+If you want to see them sorted by tags, click [here](/tags).
