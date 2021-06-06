@@ -9,7 +9,13 @@
     <meta property="og:image" content="assets/pfp.jpg">
   {% endif %}
 
-  <meta name="description" content="Hello there! I am Atonu Roy Chowdhury. And this is my personal website.">
+  {% if page.description %}
+    <meta property="og:description" content=page.description>
+  {% else %}
+    <meta property="og:description" content="Hello there! I am Atonu Roy Chowdhury. And this is my personal website.">
+  {% endif %}
+
+
 
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/pure-min.css" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/grids-responsive-min.css">
