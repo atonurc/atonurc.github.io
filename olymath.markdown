@@ -13,9 +13,6 @@ description: This is a collection of notes I prepared for teaching olympiad math
 
 ### 2021
 
-Order, Primitive Roots and Quadratic Residue
-
-
-
-Diophantine Equations
-<object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object>
+-[Order, Primitive Roots and Quadratic Residue](https://atonurc.github.io/assets/ord_primroot.pdf)
+-[Diophantine Equations](https://atonurc.github.io/assets/dioph.pdf)
+<!-- <object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object> -->
