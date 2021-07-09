@@ -6,10 +6,16 @@ layout: home
 title: Olympiad Math
 permalink: /olymath
 math: true
+description: This is a collection of notes I prepared for teaching olympiad maths.
 ---
 
-# 2021
+# Olympiad Math Resources
+
+### 2021
 
 Order, Primitive Roots and Quadratic Residue
 
+
+
 Diophantine Equations
+<object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object>
