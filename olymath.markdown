@@ -14,7 +14,6 @@ description: This is a collection of notes I prepared for teaching olympiad math
 Github repository: [https://github.com/atonurc/matholy_resources](https://github.com/atonurc/matholy_resources)
 
 ### 2021
-
  - [Order, Primitive Roots and Quadratic Residue](https://atonurc.github.io/assets/ord_primroot.pdf)
  - [Diophantine Equations](https://atonurc.github.io/assets/dioph.pdf)
 <!-- <object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object> -->
