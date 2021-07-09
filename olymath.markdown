@@ -11,6 +11,8 @@ description: This is a collection of notes I prepared for teaching olympiad math
 
 # Olympiad Math Resources
 
+Github repository: [https://github.com/atonurc/matholy_resources](https://github.com/atonurc/matholy_resources)
+
 ### 2021
 
  - [Order, Primitive Roots and Quadratic Residue](https://atonurc.github.io/assets/ord_primroot.pdf)
