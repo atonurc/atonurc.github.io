@@ -10,4 +10,5 @@ math: true
 
 # Articles
 
-If you want to see them sorted by tags, click [here](/tags).
+<!-- If you want to see them sorted by tags, click [here](/tags). -->
+I'm very lazy, so there is nothing in here yet. In the meantime, check out my medium page: [https://atonu-roy-chowdhury.medium.com/](https://atonu-roy-chowdhury.medium.com/)
