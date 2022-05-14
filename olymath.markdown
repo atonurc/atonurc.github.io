@@ -17,3 +17,6 @@ This is a collection of notes I prepared for Bangladesh Mathematical Olympiad ca
  - [Order, Primitive Roots and Quadratic Residue](https://atonurc.github.io/assets/ord_primroot.pdf)
  - [Diophantine Equations](https://atonurc.github.io/assets/dioph.pdf)
 <!-- <object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object> -->
+
+### 2022
+ - [Sequences and Recursion](https://atonurc.github.io/assets/sequences.pdf)

@@ -17,3 +17,7 @@ This is a collection of notes of some of the math classes I took at university. 
  - [Algebraic Topology I](https://atonurc.github.io/assets/MAT431_AT1.pdf)
  - [Complex Analysis](https://atonurc.github.io/assets/MAT314_CA.pdf)
 <!-- <object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object> -->
+
+
+### Fall 2021
+- [Algebraic Topology II](https://atonurc.github.io/assets/MAT432_AT2.pdf)
