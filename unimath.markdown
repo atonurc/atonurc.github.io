@@ -13,6 +13,11 @@ description: This is a collection of notes of some of the math classes I took at
 
 This is a collection of notes of some of the math classes I took at university. Please send me an email if you see some mistakes or typos.
 
+
+### Fall 2020
+ - [Differential Geometry](https://atonurc.github.io/assets/DG_Fall20.pdf)
+
+
 ### Summer 2021
  - [Algebraic Topology I](https://atonurc.github.io/assets/MAT431_AT1.pdf)
  - [Complex Analysis](https://atonurc.github.io/assets/MAT314_CA.pdf)
