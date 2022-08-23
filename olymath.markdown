@@ -20,3 +20,5 @@ This is a collection of notes I prepared for Bangladesh Mathematical Olympiad ca
 
 ### 2022
  - [Sequences and Recursion](https://atonurc.github.io/assets/sequences.pdf)
+ - [Introduction to Algebraic Number Theory](https://atonurc.github.io/assets/intro_to_alg_nt.pdf)
+
