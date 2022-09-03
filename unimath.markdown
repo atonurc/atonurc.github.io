@@ -25,4 +25,8 @@ This is a collection of notes of some of the math classes I took at university. 
 
 
 ### Fall 2021
-- [Algebraic Topology II](https://atonurc.github.io/assets/MAT432_AT2.pdf)
+ - [Algebraic Topology II](https://atonurc.github.io/assets/MAT432_AT2.pdf)
+
+
+### Summer 2022
+ - [Differential Geometry](https://atonurc.github.io/assets/MAT313_DG.pdf)
