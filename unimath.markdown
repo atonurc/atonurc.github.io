@@ -30,3 +30,6 @@ This is a collection of notes of some of the math classes I took at university. 
 
 ### Summer 2022
  - [Differential Geometry](https://atonurc.github.io/assets/MAT313_DG.pdf)
+
+### Fall 2022
+ - [General Theory of Relativity](https://atonurc.github.io/assets/PHY413_GR.pdf)
