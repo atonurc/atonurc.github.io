@@ -14,14 +14,9 @@ description: This is a collection of notes of some of the math classes I took at
 This is a collection of notes of some of the math classes I took at university. Please send me an email if you see some mistakes or typos.
 
 
-### Fall 2020
- - [Differential Geometry](https://atonurc.github.io/assets/DG_Fall20.pdf)
-
-
 ### Summer 2021
  - [Algebraic Topology I](https://atonurc.github.io/assets/MAT431_AT1.pdf)
  - [Complex Analysis](https://atonurc.github.io/assets/MAT314_CA.pdf)
-<!-- <object data="assets/dioph.pdf" width="1000" height="1000" type='application/pdf'></object> -->
 
 
 ### Fall 2021
@@ -33,3 +28,6 @@ This is a collection of notes of some of the math classes I took at university. 
 
 ### Fall 2022
  - [General Theory of Relativity](https://atonurc.github.io/assets/PHY413_GR.pdf)
+
+### Spring 2023
+ - [Algebraic Topology III](https://atonurc.github.io/assets/MAT484_AT3.pdf)
