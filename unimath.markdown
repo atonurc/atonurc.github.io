@@ -36,4 +36,4 @@ This is a collection of notes of some of the math classes I took at university. 
  - [Category Theory](https://atonurc.github.io/assets/MAT434_Cat.pdf)
 
 ### Fall 2023
- - [Differential Geometry (On Progress)](https://atonurc.github.io/assets/MAT401_DG2.pdf)
+ - [Differential Geometry II (On Progress)](https://atonurc.github.io/assets/MAT401_DG2.pdf)
