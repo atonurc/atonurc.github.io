@@ -37,3 +37,7 @@ This is a collection of notes of some of the math classes I took at university. 
 
 ### Fall 2023
  - [Differential Geometry II](https://atonurc.github.io/assets/MAT401_DG2.pdf)
+
+
+### Spring 2024
+ - [Topology](https://atonurc.github.io/assets/MAT411_Top.pdf)
