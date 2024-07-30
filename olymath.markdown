@@ -22,3 +22,5 @@ This is a collection of notes I prepared for Bangladesh Mathematical Olympiad ca
  - [Sequences and Recursion](https://atonurc.github.io/assets/sequences.pdf)
  - [Introduction to Algebraic Number Theory](https://atonurc.github.io/assets/intro_to_alg_nt.pdf)
 
+### 2024
+ - [Chinese Remainder Theorem](https://atonurc.github.io/assets/CRT.pdf)
