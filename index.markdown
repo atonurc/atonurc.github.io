@@ -19,6 +19,6 @@ I am a trainer at Bangladesh Mathematical Olympiad camps. I'm also an Academic C
 
  - Email: [atonuroychowdhury@gmail.com](mailto:atonuroychowdhury@gmail.com)
  - Twitter: [atonu__](https://twitter.com/atonu__)
- - Telegram: [AmarKonoBonduNai](https://t.me/atonnurc)
+ - Telegram: [atonurc](https://t.me/atonnurc)
  - Discord: [atonu_#1514](https://discordapp.com/users/692066406384271451/)
- - Instagram: [atonu.roy.chowdhury](https://instagram.com/atonurc)
+ - Instagram: [atonurc](https://instagram.com/atonurc)
