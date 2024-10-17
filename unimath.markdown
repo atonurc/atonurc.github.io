@@ -41,3 +41,6 @@ This is a collection of notes of some of the math classes I took at university. 
 
 ### Spring 2024
  - [Topology](https://atonurc.github.io/assets/MAT411_Top.pdf)
+
+### Summer 2024
+ - [Representation Theory](https://atonurc.github.io/assets/MAT440_RT.pdf)
