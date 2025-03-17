@@ -44,3 +44,7 @@ This is a collection of notes of some of the math classes I took at university. 
 
 ### Summer 2024
  - [Representation Theory](https://atonurc.github.io/assets/MAT440_RT.pdf)
+
+
+### Fall 2024
+ - [Functional Analysis](http://atonurc.github.io/assets/MAT433_func.pdf)

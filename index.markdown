@@ -9,7 +9,7 @@ image: /assets/pfp.jpg
  
 # About Me
 Hello there! This is Atonu Roy Chowdhury. Currently, I'm an Adjunct Lecturer at the Department of Computer Science and Engineering at BRAC University, Dhaka Bangladesh. 
-I graduated from the same university, with a major in Mathematics and a minor in Physics and Computer Science. I have typeset lecture notes of some of the courses I enrolled in. They can be found [here](/unimath).
+I completed my undergrad from the same university, with a major in Mathematics and a minor in Physics and Computer Science. I have typeset lecture notes of some of the courses I enrolled in. They can be found [here](/unimath).
 
 Sometimes I write some articles on Medium. They can be found [here](https://atonu-roy-chowdhury.medium.com). I also plan to add them to [this site](/writings). 
 
