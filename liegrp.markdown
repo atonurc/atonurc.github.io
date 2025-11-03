@@ -11,12 +11,13 @@ description: These are the materials for my lecture seris on Lie groups and Lie 
 
 # Lie Groups and Lie Algebras
 
-These are the materials for my lecture seris on Lie groups and Lie algebras. The lecture series is available on YouTube. [Playlist link](https://www.youtube.com/playlist?list=PL3yvFNLohjmVgjbqPzoDAGb73qQOrYKiY)
+These are the materials for my lecture series on Lie groups and Lie algebras. The lecture series is available on YouTube. [Playlist link](https://www.youtube.com/playlist?list=PL3yvFNLohjmVgjbqPzoDAGb73qQOrYKiY)
 
 ### Lecture materials
  1. Lecture 1: [Youtube link](https://www.youtube.com/watch?v=bpZa8trFMug), [Scribbles](https://atonurc.github.io/liegrp/liegrps1.pdf)
  2. Lecture 2: [Youtube link](https://www.youtube.com/watch?v=roin-xF36MM), [Scribbles](https://atonurc.github.io/liegrp/liegrps2.pdf)
  3. Lecture 3: [Youtube link](https://www.youtube.com/watch?v=oBalHR6E2PY), [Scribbles](https://atonurc.github.io/liegrp/liegrps3.pdf)
+ 4. Lecture 4: [Youtube link](https://www.youtube.com/watch?v=789PJ6a7Fho), [Scribbles](https://atonurc.github.io/liegrp/liegrps4.pdf)
  
 
 
