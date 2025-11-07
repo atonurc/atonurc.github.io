@@ -26,5 +26,5 @@ These are the materials for my lecture series on Lie groups and Lie algebras. Th
  1. Group structure on the simply connected cover of a connected Lie group: [PDF](https://atonurc.github.io/liegrp/liegrps2+.pdf)
  2. Leibniz-like differential formula for Lie groups: [PDF](https://atonurc.github.io/liegrp/leibniz_lie.pdf)
  3. Construction of quotient of a Lie group by a Lie subgroup: [PDF](https://atonurc.github.io/liegrp/quotient_liegroup.pdf)
- 4. Introduction to Lie algebra and exponential map: [PDF](https://atonurc.github.io/liegrp/lielag.pdf)
+ 4. Introduction to Lie algebra and exponential map: [PDF](https://atonurc.github.io/liegrp/liealg.pdf)
 
