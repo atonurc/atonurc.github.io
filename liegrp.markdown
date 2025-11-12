@@ -19,6 +19,7 @@ These are the materials for my lecture series on Lie groups and Lie algebras. Th
  3. Lecture 3: [Youtube link](https://www.youtube.com/watch?v=oBalHR6E2PY), [Scribbles](https://atonurc.github.io/liegrp/liegrps3.pdf)
  4. Lecture 4: [Youtube link](https://www.youtube.com/watch?v=789PJ6a7Fho), [Scribbles](https://atonurc.github.io/liegrp/liegrps4.pdf)
  5. Lecture 5: [Youtube link](https://www.youtube.com/watch?v=N67CYnbjxSg), [Scribbles](https://atonurc.github.io/liegrp/liegrps5.pdf)
+ 6. Lecture 6: [Youtube link](https://www.youtube.com/watch?v=BYjSvlv0FRU), [Scribbles](https://atonurc.github.io/liegrp/liegrps6.pdf)
  
 
 
