@@ -22,7 +22,7 @@ Welcome to **CSE330 (Numerical Methods)**. This site contains essential informat
 The course closely follows the lecture notes: Anthony Yeates, Numerical Analysis II — [Lecture Notes (PDF)](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)
 
 ## Class-by-class Schedule
-For a detailed class-by-class schedule, go to [this](/plan) page.
+For a detailed class-by-class schedule, go to [this](/teaching/bracu/cse330/spring26/plan) page.
 
 
 ## Course Policies (Summary)
