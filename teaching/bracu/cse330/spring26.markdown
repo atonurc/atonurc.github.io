@@ -6,7 +6,7 @@ title: CSE330 — Numerical Methods
 ---
 
 
-# CSE330 — Numerical Methods
+<!-- # CSE330 — Numerical Methods -->
 
 Welcome to **CSE330 (Numerical Methods)**. This site contains essential information about the course, schedule, and logistics. Please check back regularly for updates.
 
@@ -40,7 +40,7 @@ All announcements, deadlines, and updates will be posted on this page.
 
 ## Contact & Office Hours
 
-* Email: ext.atonu.roy@bracu.ac.bd 
+* Email: [ext.atonu.roy@bracu.ac.bd](mailto:ext.atonu.roy@bracu.ac.bd)
 * Consultation schedule: Sunday and Monday, 11:00 AM to 2:00 PM
 * Kindly send me an email before coming for consultation.
 
