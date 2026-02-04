@@ -31,6 +31,7 @@ For a detailed class-by-class schedule, go to [this](/teaching/bracu/cse330/spri
 * **Punctuality:** Please arrive on time.
 * **Academic Integrity:** All submitted work must be your own.
 
+See [this](teaching/bracu/cse330/spring26/outline.pdf) for a detailed course outline and policies.
 
 ## Announcements
 
