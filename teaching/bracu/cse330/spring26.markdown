@@ -7,7 +7,7 @@ title: CSE330 — Numerical Methods
 
 # CSE330 — Numerical Methods
 
-Welcome to **CSE330 (Numerical Methods)**. This GitHub Pages site contains essential information about the course, schedule, and logistics. Please check back regularly for updates.
+Welcome to **CSE330 (Numerical Methods)**. This site contains essential information about the course, schedule, and logistics. Please check back regularly for updates.
 
 
 ## Class Information
@@ -19,6 +19,9 @@ Welcome to **CSE330 (Numerical Methods)**. This GitHub Pages site contains essen
 ## Course Overview and Syllabus
 
 The course closely follows the lecture notes: Anthony Yeates, Numerical Analysis II — [Lecture Notes (PDF)](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)
+
+## Class-by-class Schedule
+For a detailed class-by-class schedule, go to [this](/plan) page.
 
 
 ## Course Policies (Summary)
