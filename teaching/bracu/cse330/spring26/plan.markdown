@@ -1,13 +1,13 @@
 ---
 
 layout: page
-title: CSE330 — Class Schedule
+title: ""
 ---
 
 
 <!-- # CSE330 — Numerical Methods -->
 
-## Class-by-Class Schedule
+### Class-by-Class Schedule
 
 | Date             | Topics Covered                                              | Resources                                                                    | Hometasks                    |
 | ---------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------- |
