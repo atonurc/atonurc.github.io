@@ -5,7 +5,7 @@ title: ""
 ---
 
 
-<!-- # CSE330 — Numerical Methods -->
+# CSE330 — Numerical Methods
 
 ### Class-by-Class Schedule
 
