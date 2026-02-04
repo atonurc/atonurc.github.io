@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: page
 permalink: /teaching/bracu/cse330/spring26
 title: CSE330 — Numerical Methods
 ---

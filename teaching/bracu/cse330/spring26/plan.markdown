@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: page
 title: CSE330 — Class Schedule
 ---
 
