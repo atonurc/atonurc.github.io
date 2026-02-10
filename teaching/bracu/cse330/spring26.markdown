@@ -35,7 +35,7 @@ See [this](/teaching/bracu/cse330/spring26/outline.pdf) for a detailed course ou
 
 ## Announcements
 
-All announcements, deadlines, and updates will be posted on this page.
+For assignment deadline and quiz announcements, visit [here](https://atonurc.github.io/teaching/bracu/cse330/spring26/assignment_and_quiz).
 
 
 ## Contact & Office Hours
