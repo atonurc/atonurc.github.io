@@ -45,4 +45,4 @@ For assignment deadline and quiz announcements, visit [here](https://atonurc.git
 * Kindly send me an email before coming for consultation.
 
 
-_Last updated:_ 2:47 PM, 4 February
+_Last updated:_ 4:10 PM, 10 February
