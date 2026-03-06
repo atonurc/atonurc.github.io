@@ -20,3 +20,4 @@ title: CSE330 — Class Schedule
 | 21 February 2026  | No class (International Mother Language Day) | - |
 | 26 February 2026  | Newton's divided difference, interpolation error | Chapter 2.4, 2.5 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf); [my notes](https://atonurc.github.io/teaching/bracu/cse330/spring26/interpolation.pdf) 
 | 28 February 2026  | Chebyshev nodes, Hermite interpolation | Chapter 2.6, 2.7 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf); [my notes](https://atonurc.github.io/teaching/bracu/cse330/spring26/interpolation.pdf) |
+| 5 March 2026  | Differentiation, Quiz 2 | Chapter 3.1, 3.2 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf) |
