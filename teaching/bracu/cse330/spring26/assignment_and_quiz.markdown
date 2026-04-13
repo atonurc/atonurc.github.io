@@ -11,7 +11,7 @@ title: CSE330 — Assignments and Quizzes
 
 - [Assignment 1](https://atonurc.github.io/teaching/bracu/cse330/spring26/Assignment1.pdf), Deadline: 19 February 2026 
 - [Assignment 2](https://atonurc.github.io/teaching/bracu/cse330/spring26/Assignment2.pdf), Deadline: 28 March 2026 
-- [Assignment 2](https://atonurc.github.io/teaching/bracu/cse330/spring26/Assignment3.pdf), Deadline: 23 April 2026 
+- [Assignment 3](https://atonurc.github.io/teaching/bracu/cse330/spring26/Assignment3.pdf), Deadline: 23 April 2026 
 
 
 ### Quizzes 
