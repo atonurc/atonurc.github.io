@@ -41,4 +41,6 @@ title: CSE330 — Assignments and Quizzes
 
 - Quiz 4, on 18 April 2026. 
 
-  Syllabus: Bisection method, Fixed-Point Iteration method, Newton-Raphson method, Secant method. Chapter 4.1, 4.2, 4.3, 4.4, 4.7 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)
+  Syllabus: Bisection method, Fixed-Point Iteration method, Newton-Raphson method, Secant method. 
+  
+  Study material: Chapter 4.1, 4.2, 4.3, 4.4, 4.7 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)
