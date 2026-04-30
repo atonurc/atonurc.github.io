@@ -46,8 +46,14 @@ title: CSE330 — Assignments and Quizzes
   
   ~~Study material: Chapter 4.1, 4.2, 4.3, 4.4, 4.7 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)~~
 
-- Quiz 5, on 30 April 2026. 
+- ~~Quiz 5, on 30 April 2026.~~ 
 
-  Syllabus: Linear equation: Triangular systems, Gaussian elimination,  LU decomposition, Pivoting; Overdetermined systems: Discrete least squares, QR decomposition. 
+  ~~Syllabus: Linear equation: Triangular systems, Gaussian elimination,  LU decomposition, Pivoting; Overdetermined systems: Discrete least squares, QR decomposition.~~ 
 
-  Study material: Chapter 5.1, 5.2, 5.3, 5.4, 6.2, 6.3 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)
+  ~~Study material: Chapter 5.1, 5.2, 5.3, 5.4, 6.2, 6.3 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)~~
+
+- Quiz 6, on 7 May 2026. 
+
+  Syllabus: Newton-Cotes formula (Trapezium rule and Simpson's rule), Composite Newton-Cotes formula, Error bound in Newton-Cotes, Exactness. 
+
+  Study material: Chapter 7.1, 7.2, 7.3 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf) 
