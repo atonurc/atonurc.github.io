@@ -46,6 +46,9 @@ title: CSE330 — Assignments and Quizzes
   
   ~~Study material: Chapter 4.1, 4.2, 4.3, 4.4, 4.7 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)~~
 
+  [Quiz 4 Solutions](https://atonurc.github.io/teaching/bracu/cse330/spring26/quiz4sol.pdf)
+
+
 - ~~Quiz 5, on 30 April 2026.~~ 
 
   ~~Syllabus: Linear equation: Triangular systems, Gaussian elimination,  LU decomposition, Pivoting; Overdetermined systems: Discrete least squares, QR decomposition.~~ 
