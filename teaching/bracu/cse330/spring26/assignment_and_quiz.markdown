@@ -55,6 +55,9 @@ title: CSE330 — Assignments and Quizzes
 
   ~~Study material: Chapter 5.1, 5.2, 5.3, 5.4, 6.2, 6.3 from [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf)~~
 
+  [Quiz 5 Solutions](https://atonurc.github.io/teaching/bracu/cse330/spring26/quiz5sol.pdf)
+
+
 - Quiz 6, on 7 May 2026. 
 
   Syllabus: Newton-Cotes formula (Trapezium rule and Simpson's rule), Composite Newton-Cotes formula, Error bound in Newton-Cotes, Exactness. 
