@@ -44,8 +44,8 @@ For assignment deadline and quiz announcements, visit [here](https://atonurc.git
 ## Contact & Office Hours
 
 * Email: [atonuroy.chowdhury@bracu.ac.bd](mailto:atonuroy.chowdhury@bracu.ac.bd)
-* Consultation schedule: Sunday and Monday, 11:00 AM to 2:00 PM
+* Consultation schedule: Sunday 11:00 AM to 2:00 PM, Wednesday and Thursday 12:30 PM to 2:00 PM. 
 * Kindly send me an email before coming for consultation.
 
 
-_Last updated:_ 9:24 PM, 19 June
+_Last updated:_ 9:49 PM, 19 June
