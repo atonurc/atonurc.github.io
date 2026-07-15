@@ -30,6 +30,6 @@ title: CSE330 — Assignments and Quizzes
 
 - Quiz 3, on 23 July 2026.
 
-    Syllabus: Hermite interpolation, differentiation.~~
+    Syllabus: Hermite interpolation, differentiation.
 
     Study material: Chapter 2.9, 2.10 and Chapter 3 of [the central lecture notes](https://drive.google.com/file/d/1ACFJZ9dTnA7Kqqu5ipF9Uk2dhOiUdQyf/view?usp=sharing); Chapter 2.7 and Chapter 3 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf);
