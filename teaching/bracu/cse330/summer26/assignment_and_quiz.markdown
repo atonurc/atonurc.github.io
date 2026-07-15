@@ -10,6 +10,7 @@ title: CSE330 — Assignments and Quizzes
 ### Assignments
 
 - [Assignment 1](https://atonurc.github.io/teaching/bracu/cse330/summer26/Assignment1.pdf), Deadline: 27 June 2026 
+- [Assignment 2](https://atonurc.github.io/teaching/bracu/cse330/summer26/Assignment2.pdf), Deadline: 23 July 2026 
 
 
 ### Quizzes 
@@ -26,3 +27,9 @@ title: CSE330 — Assignments and Quizzes
     
     Study material: Chapter 2 of [the central lecture notes](https://drive.google.com/file/d/1ACFJZ9dTnA7Kqqu5ipF9Uk2dhOiUdQyf/view?usp=sharing), Chapter 2.1 to 2.5 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf); [my notes](https://atonurc.github.io/teaching/bracu/cse330/spring26/interpolation.pdf)
     
+
+- Quiz 3, on 23 July 2026.
+
+    Syllabus: Hermite interpolation, differentiation.~~
+
+    Study material: Chapter 2.9, 2.10 and Chapter 3 of [the central lecture notes](https://drive.google.com/file/d/1ACFJZ9dTnA7Kqqu5ipF9Uk2dhOiUdQyf/view?usp=sharing); Chapter 2.7 and Chapter 3 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf);
