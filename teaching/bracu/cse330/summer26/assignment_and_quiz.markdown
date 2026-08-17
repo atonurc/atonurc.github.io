@@ -12,6 +12,7 @@ title: CSE330 — Assignments and Quizzes
 - [Assignment 1](https://atonurc.github.io/teaching/bracu/cse330/summer26/Assignment1.pdf), Deadline: 27 June 2026 
 - [Assignment 2](https://atonurc.github.io/teaching/bracu/cse330/summer26/Assignment2.pdf), Deadline: 23 July 2026 
 - [Assignment 3](https://atonurc.github.io/teaching/bracu/cse330/summer26/Assignment3.pdf), Deadline: 12 August 2026 
+- [Assignment 4](https://atonurc.github.io/teaching/bracu/cse330/summer26/Assignment4.pdf), Deadline: 27 August 2026 
 
 
 ### Quizzes 
@@ -41,3 +42,15 @@ title: CSE330 — Assignments and Quizzes
     Syllabus: Root finding: bisection method, fixed-point iteration method, Newton-Raphson method, Secant method.
 
     Study material: Chapter 4.1 to 4.4 and 4.7 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf);
+
+- Quiz 5, on 15 August 2026. 
+
+    Syllabus: Gaussian Elimination, Pivoting, LU Decomposition, Least Square Method, Grahm-Schmidt Algorithm, QR Decomposition
+
+    Study material: Chapter 5.1 to 5.4, 6.2 and 6.3 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf);
+
+- Quiz 6, on 22 August 2026. 
+
+    Syllabus: Trapezium rule and Simpson's rule, Composite Newton-Cotes formula, Error estimation and exactness of numerical integration
+
+    Study material: Chapter 7.1 to 7.3 of [na17.pdf](https://www.maths.dur.ac.uk/users/anthony.yeates/NOTES/na17.pdf);
