@@ -9,7 +9,7 @@ math: true
 description: This is a collection of notes of some of the classes I took at ICTP.
 ---
 
-# Notes of some University Classes
+# Notes of some Classes at ICTP
 
 This is a collection of notes of some of the classes I took at ICTP. Please send me an email if you see some mistakes or typos.
 
