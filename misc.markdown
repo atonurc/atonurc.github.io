@@ -14,19 +14,19 @@ description: This is a collection of slides for some of the talks, along with th
 This is a collection of slides for some of the talks, along with the relevant teaching experiences I had. 
 
 
-### Talk on Yoneda lemma and induced representation of finite groups. 
+### 1. Talk on Yoneda lemma and induced representation of finite groups. 
 In September 2024, I gave a 2-part talk at my university about how categorical methods simplify a lot of computations in induced representation of finite groups. 
 
 - Slides for the first part: [non-annotated](https://atonurc.github.io/assets/catrep_talk_1.pdf), [annotated](https://atonurc.github.io/assets/catrep_talk_1_annotated.pdf)
 - Slides for the second part: [non-annotated](https://atonurc.github.io/assets/catrep_talk_2.pdf), [annotated](https://atonurc.github.io/assets/catrep_talk_2_annotated.pdf)
 
-### Talk on representation of Weyl algebra in finite characteristic.
+### 2. Talk on representation of Weyl algebra in finite characteristic.
 In August 2025, I gave a talk at my university about representation of Weyl algebra in finite characteristic, and how that's essentially the same as in $\mathbb C$.
 - Slides: [PDF](https://atonurc.github.io/assets/weyl_talk.pdf)
 - Recording: [Youtube link](https://www.youtube.com/watch?v=O8knOSFvfD8)
 
 
-### Study group on Lie algebra and Lie groups.
+### 3. Study group on Lie algebra and Lie groups.
 In October 2025 to February 2026, I ran a study group of Lie groups and Lie algebras with some of my colleagues at the Mathematics department of BRAC University. As part of the reading group, I gave a talk on BCH Formula, Lie's Third Theorem, and how the Lie algebra of a simply connected Lie groups captures the information about the group. 
 
 - Recordings and notes from the reading group can be found [here](https://atonurc.github.io/liegrp)
