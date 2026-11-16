@@ -2,11 +2,14 @@
   url: /
 # - title: About
 #   url: /about
-- title: Writings
-  url: /writings
-
-- title: Olympiad Math
-  url: /olymath
-
-- title: University Math
+- title: Undergrad Notes
   url: /unimath
+
+- title: ICTP Math
+  url: /unimath
+
+- title: Talks, Study Groups, Teaching
+  url: /misc
+
+- title: Olympiad Teaching Resouces
+  url: /olymath

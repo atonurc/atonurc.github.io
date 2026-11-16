@@ -29,4 +29,5 @@ These are the materials for my lecture series on Lie groups and Lie algebras. Th
  3. Construction of quotient of a Lie group by a Lie subgroup: [PDF](https://atonurc.github.io/liegrp/quotient_liegroup.pdf)
  4. Introduction to Lie algebra and exponential map: [PDF](https://atonurc.github.io/liegrp/liealg.pdf)
  4. Adjoint action and Lie Algebra: [PDF](https://atonurc.github.io/liegrp/adj.pdf)
+ 5. Talk on BCH Formula Lie's Third Theorem: [Slides PDF](https://atonurc.github.io/liegrp/BCH_Lie3_Talk.pdf)
 
