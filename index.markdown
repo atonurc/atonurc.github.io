@@ -10,8 +10,9 @@ image: /assets/pfp.jpg
 # About Me
 Hello there! This is Atonu Roy Chowdhury. Currently, I'm studying Postgraduate Diploma in Mathematics at The 'Abdus Salam' International Centre for Theoretical Physics (ICTP), Trieste, Italy. 
 I have typset some lecture notes for classes I took at ICTP, and they are available [here](/ICTP). 
+
 Prior to joining ICTP, I was 
-a Lecturer at the Department of Computer Science and Engineering at BRAC University, Dhaka, Bangladesh. 
+a Lecturer at the Department of Computer Science and Engineering at BRAC University, Dhaka, Bangladesh (February'25-August'26). 
 I completed my undergrad from the same university, with a major in Mathematics and a minor in Physics and Computer Science. I have typeset lecture notes of some of the courses I enrolled in. They can be found [here](/unimath).
 
 Sometimes I write some articles on Substack. They can be found [here](https://atonurc.substack.com). <!-- I also plan to add them to [this site](/writings).  -->
