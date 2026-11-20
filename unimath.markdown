@@ -3,13 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Math Notes
+title: Notes of some Undergraduate Classes
 permalink: /unimath
 math: true
 description: This is a collection of notes of some of the math classes I took at university.
 ---
 
-# Notes of some University Classes
 
 This is a collection of notes of some of the math classes I took at university. Please send me an email if you see some mistakes or typos.
 

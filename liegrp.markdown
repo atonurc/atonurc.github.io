@@ -3,13 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Lie Groups and Lie Algebras Lecture
+title: Lie Groups and Lie Algebras
 permalink: /liegrp
 math: true
 description: These are the materials for my lecture seris on Lie groups and Lie algebras.
 ---
 
-# Lie Groups and Lie Algebras
+
 
 These are the materials for my lecture series on Lie groups and Lie algebras. The lecture series is available on YouTube. [Playlist link](https://www.youtube.com/playlist?list=PL3yvFNLohjmVgjbqPzoDAGb73qQOrYKiY)
 

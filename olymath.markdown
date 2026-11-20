@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Olympiad Math
+title: ""
 permalink: /olymath
 math: true
 description: This is a collection of notes I prepared for teaching olympiad maths.

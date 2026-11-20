@@ -9,7 +9,6 @@ math: true
 description: This is a collection of slides for some of the talks, along with the relevant teaching experiences I had. 
 ---
 
-# Talks, Study Groups, Teaching
 
 This is a collection of slides for some of the talks, along with the relevant teaching experiences I had. 
 

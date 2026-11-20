@@ -3,13 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: ICTP Notes
+title: Notes of some Classes at ICTP
 permalink: /ICTP
 math: true
 description: This is a collection of notes of some of the classes I took at ICTP.
 ---
 
-# Notes of some Classes at ICTP
+<!-- # Notes of some Classes at ICTP -->
 
 This is a collection of notes of some of the classes I took at ICTP. Please send me an email if you see some mistakes or typos.
 
