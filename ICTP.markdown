@@ -21,3 +21,4 @@ This is a collection of notes of some of the classes I took at ICTP. Please send
 
 ### Term 2
  - [Complex Analysis](https://atonurc.github.io/ICTP/MTH-CA.pdf) (Ongoing, hence incomplete)
+ - [Differential Geometry](https://atonurc.github.io/ICTP/MTH-DG.pdf) (Ongoing, hence incomplete)
