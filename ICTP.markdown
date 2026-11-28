@@ -17,6 +17,8 @@ This is a collection of notes of some of the classes I took at ICTP. Please send
 ### Term 1
  - [Real Analysis](https://atonurc.github.io/ICTP/MTH-RA.pdf) 
  - [Algebra](https://atonurc.github.io/ICTP/MTH-ALG.pdf) (Solutions to Problem sets only)
+    - [4 Proofs that An is simple](https://atonurc.github.io/ICTP/An_simple.pdf) (This was an assignment for the Algebra course)
+    - [On Hilbert's basis theorem](https://atonurc.github.io/ICTP/hilbert_basis.pdf) (This was an assignment for the Algebra course)
 
 
 ### Term 2
